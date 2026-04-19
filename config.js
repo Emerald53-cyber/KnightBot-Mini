@@ -55,7 +55,7 @@ module.exports = {
     // API Keys (add your own)
     apiKeys: {
       // Add API keys here if needed
-      openai: '',
+      openai: ''
       deepai: '',
       remove_bg: ''
     },
